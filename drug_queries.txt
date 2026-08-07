@@ -1,0 +1,29 @@
+1	depression
+2	acne
+3	anxiety
+4	insomnia
+5	birth control
+6	high blood pressure
+7	allergies
+8	migraine
+9	asthma
+10	hypothyroidism
+11	acid reflux
+12	hair loss
+13	high cholesterol
+14	adhd
+15	fibromyalgia
+16	sinus infection
+17	smoking cessation
+18	rosacea
+19	rheumatoid arthritis
+20	menopause
+21	arthritis
+22	weight loss
+23	bipolar disorder
+24	wrinkles
+25	urinary tract infection
+26	diabetes
+27	osteoporosis
+28	eczema
+29	obesity
